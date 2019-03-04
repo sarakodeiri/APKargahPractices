@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuggyCode", "BuggyCode\BuggyCode.csproj", "{F3EF1A90-A902-4931-8F97-A1E75644C034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EF1A90-A902-4931-8F97-A1E75644C034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EF1A90-A902-4931-8F97-A1E75644C034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EF1A90-A902-4931-8F97-A1E75644C034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EF1A90-A902-4931-8F97-A1E75644C034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F984F84C-8475-409F-86BA-DA17B56BC92C}
+	EndGlobalSection
+EndGlobal
